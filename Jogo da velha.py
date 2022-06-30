@@ -1,5 +1,3 @@
-
-
 import random 
 sorteio = random.randrange(1, 10) 
 vez =  'X' 
